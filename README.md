@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thecodezz&theme=nord&margin-w=15" alt="Github Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=a7medali-dev&theme=nord&margin-w=15" alt="Github Profile Trophy" />
 </p>
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJocXlvb3lyN3Bjdnc3ODdpYjliZ25ndDlzNWJnNWxyYmNkOWphZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="320px"/>
